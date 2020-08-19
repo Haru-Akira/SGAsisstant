@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head> <meta charset="utf-8">
+        <title>Service Group Assistant</title>
+		<style>
+		body {font-size: 1.3em ;
+		}
+		.White {
+		        color: rgb(255, 255, 255);
+		}
+				.kh {
+		        color: rgb(0,0,0);
+		}
+				.ms {
+		        color: rgb(171,0,0);
+		}
+				
+				.ps {
+		        color: rgb(173,122,0);
+		}
+				
+				.hv {
+		        color: rgb(255,255,128);
+		}
+				
+				.bw {
+		        color: rgb(0,96,0);
+		}
+				
+				.wd {
+		        color: rgb(0,139,247);
+		}
+				
+				.pg {
+		        color: rgb(0,227,227);
+		}
+		body {
+		        background-color: rgb(100, 24, 151);
+		}
+		</style>
+		<!-- Comments -->
+    </head>
+	<a target="_blank" href="http://www.jw.org">
+	<img src="https://cdn.pixabay.com/photo/2017/01/25/21/02/bubble-2009030_960_720.png" width="300">
+	</a>
+	<h1 class="White">  Im Here To Help!</h1>
+
+	
+    <body>
+	<h2  class="White">Groups:</h2>
+	<ul>
+	<li id="kh" class="kh">Kingdom Hall</li>
+	<li id="ms" class="ms">Martinsburg Station</li>
+	<li id="ps" class="ps">Pikeside</li>
+	<li id="hv" class="hv">Hedgesville</li>
+	<li id="bw" class="bw">Bronco Way</li>
+	<li id="wd" class="wd">Wendover Drive</li>
+	<li id="pg" class="pg">Price Group</li>
+	</ul>
+    </body>
+	
+</html>
